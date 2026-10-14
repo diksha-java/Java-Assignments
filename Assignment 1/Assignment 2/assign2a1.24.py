@@ -1,0 +1,1 @@
+m1=float(input("enter marks of subject1:"))
