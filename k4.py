@@ -1,0 +1,10 @@
+a=int(input("Enter first number:"))
+b=int(input("Enter second number:"))
+c=int(input("Enter third number:"))
+num_tuple=(a,b,c)
+x,y,z=num_tuple
+print("Tuple:",num_tuple)
+print("Unpacked values:")
+print("x=",x)
+print("y=",y)
+print("z=",z)
